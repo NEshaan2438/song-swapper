@@ -1,0 +1,29 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: right;
+    margin-right: 200px;
+}
+
+h4 {
+    width: 30%;
+    margin-left: 63%;
+}
+
+canvas {
+    background-color: wheat;
+    border-radius: 15px;
+}
+
+#btn1 {
+    color: slategray;
+    margin-left: 800px;
+}
